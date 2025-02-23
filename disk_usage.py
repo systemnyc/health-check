@@ -23,3 +23,9 @@ print(f"free space {free_space[1]:.2f}")
 
 print("Everything OK")
 sys.exit(0)
+
+def main():
+    # TODO: ADD main($args) passing to function from terminal
+
+if __name__ == "__main__":
+    main()
